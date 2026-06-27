@@ -22,7 +22,7 @@ A desktop app that automatically sorts files in a selected folder into subfolder
 
 1\. No dependencies needed
 
-2\. Run: `python file\_organizer\_app.py`
+2\. Run: `python file_organizer_app.py`
 
 
 
